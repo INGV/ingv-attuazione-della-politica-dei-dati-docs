@@ -139,7 +139,7 @@ esempio basato sul codice con prefisso CRUI:
 
 .. image:: ../images/esempioDOI.jpg
    :alt: Esempio di DOI basato sul codice con prefisso CRUI.
-   :align:  middle 
+   :align:  center 
    :width: 480 px
 
 Di seguito le linee guida per l’assegnazione degli identificativi,
