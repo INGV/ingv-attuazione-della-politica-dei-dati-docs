@@ -1,8 +1,10 @@
 Allegato 1. 
 ============
+.. contents::
 
 Avvio e Sperimentazione del Registro dei Dati dell’INGV
 =======================================================
+.. contents::
 
 Al fine di avviare la sperimentazione della realizzazione del Registro
 dei Dati dell’INGV, e in conformità di quanto indicato nei Capitoli 2.3

@@ -1,5 +1,5 @@
-6. Ufficio Gestione Dati
-========================
+Ufficio Gestione Dati
+=====================
 
 L’istituzione dell’Ufficio Gestione Dati (UGD) risponde al principio
 “Professionalità” del DP200. Tale principio sancisce l’impegno dell’INGV
@@ -30,8 +30,8 @@ L’UGD è istituito con delibera del Consiglio di Amministrazione. I suoi
 componenti sono nominati con decreto del Presidente e durano in carica
 tre anni eventualmente rinnovabili una sola volta.
 
-6.1 Compiti dell’Ufficio Gestione Dati 
----------------------------------------
+Compiti dell’Ufficio Gestione Dati 
+----------------------------------
 
 L’UGD persegue le sue finalità secondo un Piano di Attività che
 definisce gli obiettivi annuali e descrive dettagliatamente tempi, modi
@@ -71,8 +71,8 @@ fase di inserimento nel Registro e a tal fine potrà interfacciarsi
 direttamente con i Responsabili delle Banche Dati e con i Responsabili
 Tecnici delle Banche Dati.
 
-6.2 Composizione dell’Ufficio Gestione Dati
--------------------------------------------
+Composizione dell’Ufficio Gestione Dati
+---------------------------------------
 
 La composizione dell’UGD tiene conto delle Linee Guida dell’Agenzia
 dell’Italia Digitale (AgID) 2017 [55]_, adattandole allo specifico

@@ -1,5 +1,5 @@
-5. Registri di Metadati non Gestiti da INGV
-===========================================
+Registri di Metadati non Gestiti da INGV
+========================================
 
 I dati presenti nel Registro Dati INGV possono essere collegati a
 livello istituzionale a registri di metadati non gestiti all’INGV. In
@@ -24,8 +24,8 @@ cascata, aggiornando i metadati nel Registro Dati INGV, vengono
 aggiornati automaticamente i metadati associati ai dati collegati nei
 registri esterni.
 
-5.1 Requisiti della *Landing Page*
-----------------------------------
+Requisiti della *Landing Page*
+------------------------------
 
 La pagina Web di destinazione (Landing Page) è la pagina Web che viene
 associata ai dati nei registri esterni, ovvero la pagina su cui gli
@@ -105,15 +105,15 @@ presenza di tutti gli elementi necessari nella *Landing Page*, e in
 particolar modo, verrà garantita la coerenza delle informazioni con
 quanto riportato nel Registro Dati.
 
-5.2 Identificativi DOI
-----------------------
+Identificativi DOI
+------------------
 
     L’UGD assocerà, laddove possibile, ogni elemento del Registro Dati a
     un identificativo persistente DOI inserendo i relativi metadati nel
     registro DataCite [38]_.
 
-5.2.1 Linee Guida per l'Assegnazione
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Linee Guida per l'Assegnazione
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 L’assegnazione è vincolata da una serie di condizioni inderogabili in
 quanto deve essere:
@@ -183,8 +183,8 @@ pubblicazioni. Per un uso più funzionale, si consiglia di presentare il
 codice nella forma di indirizzo risolvibile (es.:
 `*http://doi.org/10.13127/xxxx)* <http://doi.org/10.13127/xxxx)>`__.
 
-5.2.2 Linee Guida per la Compilazione di Metadati DataCite
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Linee Guida per la Compilazione di Metadati DataCite
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 I metadati da associare all'identificativo DOI adottano lo schema
 DataCite [41]_ nella sua più recente versione. Il presente documento fa
@@ -233,8 +233,8 @@ compilazione di tale file.
 | Size 	| 0-n 	| Size (e.g. bytes, pages, inches, etc.) or duration (extent), e.g. hours, minutes, days, etc., of a resource. 	| Se è possibile quantificare i dati, compilare questo campo. 	|
 | Format 	| 0-n 	| Technical format of the resource. Use file extension or MIME type where possible. 	| Se i dati sono disponibili in uno o più standard di codifica di dati, indicare qui i formati. 	|
 
-5.2.3 Relazioni con altri prodotti della ricerca
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Relazioni con altri prodotti della ricerca
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Lo schema di metadati DataCite permette di collegare l’identificativo
 DOI ad altre risorse digitali. Nel tag “relatedIdentifier” demandato a
@@ -284,8 +284,8 @@ metadati DataCite.*
 | IsRequiredBy 	| Indicates A is required by B 	|
 | Requires 	| Indicates A requires B 	|
 
-5.2.4 Identificazione di Frammenti di Dati Complessi
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Identificazione di Frammenti di Dati Complessi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Al fine di recuperare un sottoinsieme di un set di dati (frammento o
 *subset)* che sia associato ad un identificativo DOI, è possibile usare
@@ -313,8 +313,8 @@ dati con l'ausilio di parametri viene denominata *"data slicing"*. In
 ambito sismologico sono in corso sperimentazioni [45]_\ :sup:`,`  [46]_
 nell’ambito dei progetti europei COOPEUS, ENVRI ed EUDAT.
 
-5.3 Il Repertorio Nazionale dei Dati Territoriali (RNDT)
---------------------------------------------------------
+Il Repertorio Nazionale dei Dati Territoriali (RNDT)
+----------------------------------------------------
 
 Il Repertorio Nazionale dei Dati Territoriali (RNDT) [47]_ è stato
 individuato come “base di dati di interesse nazionale” [48]_ definito
@@ -339,8 +339,8 @@ resta pienamente responsabile della correttezza e dell'aggiornamento
 degli stessi, nonché della gestione e dell'aggiornamento dei dati cui
 tali metadati si riferiscono.
 
-5.3.1 Dati territoriali d’interesse generale 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dati territoriali d’interesse generale 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nel descrivere il contenuto del RNDT, il legislatore definisce
 dettagliatamente 110 tipologie di “Dati d’interesse generale”, e l’INGV
@@ -395,8 +395,8 @@ l’accreditamento delle Pubbliche Amministrazioni”*\  [51]_ con la
 procedura di accreditamento di Amministrazioni Pubbliche tenute ad
 alimentare il Repertorio.
 
-5.3.2 Linee Guida per la Compilazione di Metadati RNDT
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Linee Guida per la Compilazione di Metadati RNDT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Il profilo di metadati “RNDT” è basato sugli Standard ISO 19115, 19119 e
 TS 19139, prodotti dal *Technical Committe* ISO/TC211 [52]_ che si

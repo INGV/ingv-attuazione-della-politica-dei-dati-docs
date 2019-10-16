@@ -1,8 +1,8 @@
-2. Contesto Operativo
-=====================
+Contesto Operativo
+==================
 
-2.1 Obiettivi
--------------
+Obiettivi
+---------
 
 In conformità con quanto definito nel DP200, la politica dei dati
 dell’INGV ha lo scopo di:
@@ -28,8 +28,8 @@ regole e descrivere gli strumenti per la gestione dei dati al fine di
 supportare l’attuazione della Politica dei Dati dell’INGV definita nel
 DP200 e quindi al raggiungimento dei suoi obiettivi.
 
-2.2 Strategia
--------------
+Strategia
+---------
 
 La strategia di attuazione della politica dei dati dell’INGV descritta
 in questo documento si basa sulla realizzazione del Registro dei Dati,
@@ -79,14 +79,14 @@ l’autorevolezza scientifica di chi produce i dati e i doveri e
 responsabilità istituzionali verso la comunità scientifica e tutti i
 potenziali utenti.
 
-2.3 Piano di Attività
----------------------
+Piano di Attività
+-----------------
 
 La delicata fase di avvio e sperimentazione del Registro Dati nonché la
 successiva gestione ordinaria sono affidate all’Ufficio Registro Dati.
 
-2.3.1 Avvio e Sperimentazione
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Avvio e Sperimentazione
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Questa prima fase ha il duplice scopo di avviare il popolamento del
 Registro Dati con gli elementi riportati nel Censimento secondo una
@@ -158,8 +158,8 @@ caso in cui i Direttori di Dipartimento ritengano sia necessario
 prolungare la fase di sperimentazione, ne definiranno modalità e durata
 di concerto con l’UGD.
 
-2.3.2 Gestione Ordinaria
-~~~~~~~~~~~~~~~~~~~~~~~~
+Gestione Ordinaria
+~~~~~~~~~~~~~~~~~~
 
 Al termine della fase di avvio e sperimentazione, l’UGD aggiornerà le
 procedure, ed eventualmente le regole, per la gestione ordinaria del

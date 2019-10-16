@@ -1,5 +1,6 @@
 Premessa
 ========
+.. contents::
 
 Il documento che delinea i principi della Politica dei Dati dell’INGV è
 stato approvato e formalizzato con il Decreto del Presidente n. 200

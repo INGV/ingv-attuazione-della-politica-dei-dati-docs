@@ -1,11 +1,11 @@
-3. Gestione dei Dati 
+Gestione dei Dati 
 =====================
 
 Di seguito sono riportate le regole e le procedure adottate dall’INGV
 per la gestione dei dati e vengono individuati gli organi istituzionali
 che concorrono alla loro gestione.
 
-3.1 Regole di Accesso ai Dati 
+Regole di Accesso ai Dati 
 ------------------------------
 
 Secondo quanto stabilito nel DP200, principio fondamentale per l’INGV è
@@ -83,7 +83,7 @@ utenti:
        potenziali danni derivanti da usi impropri dei dati causati da
        terze parti.
 
-3.2 Procedure di Identificazione del Produttore dei Dati 
+Procedure di Identificazione del Produttore dei Dati 
 ---------------------------------------------------------
 
 Per quanto attiene al rispetto delle norme che regolamentano la gestione
@@ -155,7 +155,7 @@ procedura *bottom-up* sotto definita.
 -  Il Responsabile dei Dati avvia la procedura di inserimento dei dati
        nel Registro secondo le modalità indicate dall’UGD.
 
-3.3 Procedure di Verifica di Idoneità dei Dati
+Procedure di Verifica di Idoneità dei Dati
 ----------------------------------------------
 
 Una volta definita la sua classe, prima che un dato possa essere
@@ -187,4 +187,3 @@ loro inserimento nel Registro Dati.*
 
 .. [15]
        OpenAire. Guidelines for Data Archives.
-

@@ -1,4 +1,4 @@
-1. Definizioni
+Definizioni
 ==============
 
 Ai fini dell’applicazione della Politica dei Dati, si applicano le
