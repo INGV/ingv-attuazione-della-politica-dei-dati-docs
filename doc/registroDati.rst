@@ -56,14 +56,15 @@ Metadati
 --------
 
 Di seguito è presentato l’elenco dei metadati necessari a descrivere
-ciascun elemento del Registro Dati (Tabella 1). È prevedibile che questo
+ciascun elemento del Registro Dati (|Tabella 1|). È prevedibile che questo
 elenco possa essere integrato alla luce di esigenze istituzionali o
 future indicazioni dell’Agenzia Digitale per l’Italia [16]_, tali
 eventuali integrazioni verranno effettuate dall’UGD e verranno
 opportunamente comunicate al personale e comunque rese disponibili sul
 sito Web del Gruppo Gestione Registro Dati.
 
-*Tabella 1. Metadati che descrivono ciascun elemento inserito nel
+.. table:: Tabella 1. Metadati che descrivono ciascun elemento inserito nel Registro Dati
+   :name: Tabella 1
 
 | ID                                      | Identificativo del record.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

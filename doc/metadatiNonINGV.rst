@@ -198,15 +198,16 @@ Di seguito vengono elencati i metadati disponibili, per ognuno viene
 specificata l’etichetta *(tag)* da utilizzare, il numero di occorrenze
 possibili, la definizione secondo lo schema DataCite e un’indicazione
 sul contenuto. I metadati vengono suddivisi tra quelli a compilazione
-obbligatoria (Tabella 2), cioè la cui presenza è vincolante per
+obbligatoria (|Tabella 2|), cioè la cui presenza è vincolante per
 l’inserimento di Dati nel Registro, e metadati a compilazione
-facoltativa (Tabella 3).
+facoltativa (|Tabella 3|).
 
 I metadati vanno redatti in formato XML; se possibile, l’UGD renderà
 disponibili opportuni strumenti per semplificare il processo di
 compilazione di tale file.
 
-*Tabella 2 - Metadati a compilazione obbligatoria.*
+.. table:: Tabella 2 - Metadati a compilazione obbligatoria.
+   :name: Tabella 2
 
 | Etichetta (tag) 	| Occorr. 	| Definizione secondo DataCite (v4.1) 	| Contenuto 	|
 |-------------------	|---------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
@@ -224,7 +225,8 @@ compilazione di tale file.
 | Funding Reference 	| 1-n 	| Information about financial support (funding) for the resource being registered 	| Elenco delle istituzioni che hanno finanziato la creazione dei dati. 	|
 | Date 	| 0-1 	| Different dates relevant to the work. The attribute 'dateType' may contains: Accepted, Available, Copyrighted, Collected, Created, Issued, Submitted, Updated, Valid. 	| Se disponibili, compilare con le date relative. 	|
 
-*Tabella 3 - Metadati a compilazione facoltativa.*
+.. table:: Tabella 3 - Metadati a compilazione facoltativa.
+   :name: Tabella 3
 
 | Etichetta (Tag) 	| Occorr 	| Descrizione fornita da DataCite 	| Contenuto 	|
 |----------------------	|--------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
@@ -244,12 +246,12 @@ stabilire tali collegamenti è possibile specificare nell’attributo
 ARK, arXiv, bibcode, DOI, EAN13, EISSN, Handle, IGSN, ISBN, ISSN, ISTC,
 LISSN, LSID, PMID, PURL, UPC, URL, URN. La tipologia di relazione tra il
 DOI e un’altra risorsa digitale si specifica tramite l’attributo
-“relationType”. In Tabella 4 si riportano le relazioni ammesse in cui
+“relationType”. In |Tabella 4| si riportano le relazioni ammesse in cui
 (A) rappresenta l’oggetto associato al DOI, e (B) l’elemento che si sta
 collegando.
 
-*Tabella 4 – Elenco delle tipologie di relazioni ammesse dallo schema di
-metadati DataCite.*
+.. table:: Tabella 4 – Elenco delle tipologie di relazioni ammesse dallo schema di metadati DataCite.
+   :name: Tabella 4
 
 | Tipo di relazione 	| Descrizione fornita da DataCite 	|
 |---------------------	|--------------------------------------------------------------------------------------------------------------------------	|
