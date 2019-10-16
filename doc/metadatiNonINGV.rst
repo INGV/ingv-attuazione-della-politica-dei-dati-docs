@@ -139,7 +139,7 @@ esempio basato sul codice con prefisso CRUI:
 
 .. image:: ../images/esempioDOI.jpg
    :alt: Esempio di DOI basato sul codice con prefisso CRUI.
-   :align: center, middle 
+   :align:  middle 
    :width: 480 px
 
 Di seguito le linee guida per l’assegnazione degli identificativi,
@@ -499,4 +499,4 @@ automatizzato.
    | http://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32008R1205
 
 .. [54]
-   Repertorio Nazionale dei Dati Territoriali, http://www.rndt.gov.it
+   Repertorio Nazionale dei Dati Territoriali, http://www.rndt.gov.it.gov.it
