@@ -34,8 +34,6 @@ Documento di attuazione della politica dei dati dell'INGV
    doc/registroDati
    doc/metadatiNonINGV
    doc/UGD
-
-.. toctree::   
    doc/all1
 
 .. |ingv_logo_text_two_lines| image:: images/ingv_logo_text_two_lines.png
