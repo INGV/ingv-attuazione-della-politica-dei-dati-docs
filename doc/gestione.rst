@@ -160,7 +160,7 @@ Procedure di Verifica di Idoneità dei Dati
 
 Una volta definita la sua classe, prima che un dato possa essere
 inserito nel Registro, è necessario verificarne l’idoneità. La procedura
-per la verifica di tale idoneità è schematizzata in :ref:<verifica-idoneita>. Le
+per la verifica di tale idoneità è schematizzata in :ref:`verifica-idoneita`. Le
 informazioni necessarie alla verifica vengono fornite all’UGD dal
 Referente del Produttore dei Dati (vedi Capitolo 4).
 
