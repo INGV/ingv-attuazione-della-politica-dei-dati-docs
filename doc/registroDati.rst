@@ -327,7 +327,7 @@ La procedura ordinaria di sottomissione si compone dei seguenti passaggi
 9. Il Direttore di Sezione verifica l’attendibilità della richiesta
    sottomessa e la trasmette al Direttore di Dipartimento;
 
-.. figure:: ../images/proceduraInserimento.jpg
+.. image:: ../images/proceduraInserimento.jpg
    :name: procedura-inserimento
    :alt: Fig.2 - Schema a blocchi della procedura per l’inserimento di nuovi elementi nel Registro Dati.
 *Fig. 2 - Schema a blocchi della procedura per l'inserimento di nuovi elementi nel Registro Dati.*
