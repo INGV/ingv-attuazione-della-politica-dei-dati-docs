@@ -56,7 +56,7 @@ Metadati
 --------
 
 Di seguito è presentato l’elenco dei metadati necessari a descrivere
-ciascun elemento del Registro Dati (Tabella 1). È prevedibile che questo
+ciascun elemento del Registro Dati (:ref:`Tabella 1<Tabella-1>`). È prevedibile che questo
 elenco possa essere integrato alla luce di esigenze istituzionali o
 future indicazioni dell’Agenzia Digitale per l’Italia [16]_, tali
 eventuali integrazioni verranno effettuate dall’UGD e verranno
@@ -64,7 +64,7 @@ opportunamente comunicate al personale e comunque rese disponibili sul
 sito Web del Gruppo Gestione Registro Dati.
 
 .. table:: Tabella 1. Metadati che descrivono ciascun elemento inserito nel Registro Dati
-   :name: Taballe 1
+   :name: Taballa-1
 
 +-------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Metadato                                  | Descrizione del metadato                                                                                                                                                                                                                                                                                                                                                                                      |
@@ -327,10 +327,10 @@ La procedura ordinaria di sottomissione si compone dei seguenti passaggi
 9. Il Direttore di Sezione verifica l’attendibilità della richiesta
    sottomessa e la trasmette al Direttore di Dipartimento;
 
-|Regolamento DOI|
 .. figure:: ../images/proceduraInserimento.jpg
    :name: procedura-inserimento
    :alt: Fig.2 - Schema a blocchi della procedura per l’inserimento di nuovi elementi nel Registro Dati.
+*Fig. 2 - Schema a blocchi della procedura per l'inserimento di nuovi elementi nel Registro Dati.*
 
 10. Il Direttore di Dipartimento valuta la richiesta, anche in relazione
    al Programma Triennale di Attività dell’INGV; nel caso di dati di

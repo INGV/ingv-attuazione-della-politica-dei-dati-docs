@@ -138,6 +138,7 @@ L'identificativo DOI è strutturato con un prefisso e un suffisso, qui un
 esempio basato sul codice con prefisso CRUI:
 
 .. image:: ../images/esempioDOI.jpg
+   :name: esempioDOI
    :alt: Esempio di DOI basato sul codice con prefisso CRUI.
    :align:  center 
    :width: 480 px
@@ -198,9 +199,9 @@ Di seguito vengono elencati i metadati disponibili, per ognuno viene
 specificata l’etichetta *(tag)* da utilizzare, il numero di occorrenze
 possibili, la definizione secondo lo schema DataCite e un’indicazione
 sul contenuto. I metadati vengono suddivisi tra quelli a compilazione
-obbligatoria (:ref:<Tabella-2>), cioè la cui presenza è vincolante per
+obbligatoria (:ref:`Tabella 2 <Tabella-2>`), cioè la cui presenza è vincolante per
 l’inserimento di Dati nel Registro, e metadati a compilazione
-facoltativa (:ref:<Tabella-3>).
+facoltativa (:ref:`Tabella 3 <Tabella-3>`).
 
 I metadati vanno redatti in formato XML; se possibile, l’UGD renderà
 disponibili opportuni strumenti per semplificare il processo di
@@ -246,7 +247,7 @@ stabilire tali collegamenti è possibile specificare nell’attributo
 ARK, arXiv, bibcode, DOI, EAN13, EISSN, Handle, IGSN, ISBN, ISSN, ISTC,
 LISSN, LSID, PMID, PURL, UPC, URL, URN. La tipologia di relazione tra il
 DOI e un’altra risorsa digitale si specifica tramite l’attributo
-“relationType”. In :ref:<Tabella-4> si riportano le relazioni ammesse in cui
+“relationType”. In :ref:`Tabella 4<Tabella-4>` si riportano le relazioni ammesse in cui
 (A) rappresenta l’oggetto associato al DOI, e (B) l’elemento che si sta
 collegando.
 

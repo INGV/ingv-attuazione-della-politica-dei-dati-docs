@@ -54,14 +54,13 @@ A.3. Attività di verifica
 
 Le attività di verifica del Registro dei Dati dovranno essere
 finalizzate ad accertare l’effettiva operatività delle banche dati
-implementate (nel rispetto delle regole di Accesso definite in Tabella
-1) e la loro funzionalità nell’ambito del sistema di gestione dei dati
+implementate (nel rispetto delle regole di Accesso definite in :ref:`Tabella 1<Tabella-a1>`) e la loro funzionalità nell’ambito del sistema di gestione dei dati
 INGV (qualora già implementato). Nel caso in cui fosse previsto un
 collegamento a banche dati esterne (come definite nel “Documento
 Attuativo”), deve essere verificata anche la relativa interoperabilità.
 
 .. table:: TABELLA 1
-   :name: Tabella-1
+   :name: Tabella-a1
 
 | Rif. Censimento | Nome                                                                                                | Responsabile dei Dati                                                                                                                                    | Responsabile Tecnico della Banca Dati                                                                                                     | Regole di Accesso                                                                                                                                                                                                                     |
 |-----------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
