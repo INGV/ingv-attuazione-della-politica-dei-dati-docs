@@ -28,6 +28,7 @@ Documento di attuazione della politica dei dati dell'INGV
    :numbered:
 
    doc/premessa
+   doc/definizioni
    doc/contesto
    doc/gestione
    doc/registroDati
