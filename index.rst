@@ -25,9 +25,11 @@ Documento di attuazione della politica dei dati dell'INGV
    Documento di attuazione della politica dei dati dell'INGV.
 
 .. toctree::
+   doc/premessa
+
+.. toctree::
    :numbered:
 
-   doc/premessa
    doc/definizioni
    doc/contesto
    doc/gestione
