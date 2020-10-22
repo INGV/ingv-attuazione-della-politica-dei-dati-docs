@@ -3,7 +3,7 @@ Premessa
 
 Il documento che delinea i principi della Politica dei Dati dell’INGV è
 stato approvato e formalizzato con il Decreto del Presidente n. 200
-(DP200) del 26/4/2016.
+(DP200) del 26/4/2016..
 
 La definizione di una politica dei dati per l’INGV risponde alla
 necessità di governare la molteplicità dei dati di ricerca prodotti,
